@@ -1,1 +1,1 @@
-# setup
+Setup with front-end focus.
